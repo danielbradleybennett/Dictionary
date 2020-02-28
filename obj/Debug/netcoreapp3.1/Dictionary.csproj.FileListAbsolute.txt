@@ -1,0 +1,10 @@
+/Users/danielbennett/workspace/csharp/exercises/Dictionary/obj/Debug/netcoreapp3.1/Dictionary.csprojAssemblyReference.cache
+/Users/danielbennett/workspace/csharp/exercises/Dictionary/obj/Debug/netcoreapp3.1/Dictionary.AssemblyInfoInputs.cache
+/Users/danielbennett/workspace/csharp/exercises/Dictionary/obj/Debug/netcoreapp3.1/Dictionary.AssemblyInfo.cs
+/Users/danielbennett/workspace/csharp/exercises/Dictionary/bin/Debug/netcoreapp3.1/Dictionary.deps.json
+/Users/danielbennett/workspace/csharp/exercises/Dictionary/bin/Debug/netcoreapp3.1/Dictionary.runtimeconfig.json
+/Users/danielbennett/workspace/csharp/exercises/Dictionary/bin/Debug/netcoreapp3.1/Dictionary.runtimeconfig.dev.json
+/Users/danielbennett/workspace/csharp/exercises/Dictionary/bin/Debug/netcoreapp3.1/Dictionary.dll
+/Users/danielbennett/workspace/csharp/exercises/Dictionary/bin/Debug/netcoreapp3.1/Dictionary.pdb
+/Users/danielbennett/workspace/csharp/exercises/Dictionary/obj/Debug/netcoreapp3.1/Dictionary.dll
+/Users/danielbennett/workspace/csharp/exercises/Dictionary/obj/Debug/netcoreapp3.1/Dictionary.pdb
